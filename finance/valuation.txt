@@ -1,0 +1,90 @@
+Valuation is a craft
+- a skill you learn by doing
+- like cooking
+- a bridge between stories and numbers
+- a disciplined storyteller and a imaginative number cruncher
+
+
+Value vs Price:
+Value - driven by Cash flows, growth, and risk
+Price - driven by Demand and Supply (Demand/Supply could be driven by mood, revenge, momentum)
+Behavioural Finance can't affect the value of a company, but it can affect its price.
+
+Some things cannot be valued, but can be priced - art, bitcoin, currency
+
+
+Biases and Preconceptions:
+
+Know what is your initial view, try to address it.
+
+
+Myths about Valuation:
+1. Valuation is an objective search for "true" value
+    - how much bias and in which direction?
+2. Valuation provides a precise estimate of value
+    - the payoff is greatest when the valuation is least precise
+3. The more quantitative a model, the better the valuation
+    - less is more
+    - simpler models do much better
+    - it is easy to hide garbage in complex models
+    - when in doubt, aggregate
+    
+    
+Approaches to Valuation:
+1. Intrinsic Valuation - based on capacity to generate cash flows and the risk in the cash flows
+2. Relative Valuation or Pricing - estimates how much to pay for an asset based on what others are paying for comparable assets, scaled to a common metric
+3. Real option (contingent claim) valuation - augments the value of assets for which cash flows are contingent on an event happening
+
+
+Efficient markets would leave no space for valuation
+- markets make mistakes, assume this before starting with valuation
+- market corrects itself
+
+
+Intrinsic Valuation:
+Discounted Cash Flows (DCF)
+
+- estimate life of an asset
+- estimate cash flows during the life of the asset
+- estimate discount rate to get present value
+
+suited for investors who:
+- have a long time horizon
+- can provide the catalyst needed to move the price to value
+- are not easily swayed
+
+
+Relative Valuation (Pricing)
+
+- a group of companies
+- a standardized (comparable) metric
+- control for any differences from the group of company
+
+- corrections in pricing are faster than corrections in valuation
+- with pricing, something is always cheap (below average of the industry)
+- the world is a pricing world
+
+suited when:
+- large number of comparable assets
+- time horizons are short
+
+
+Options Pricing Model:
+- stretching the options pricing model, used to value exchange traded options
+- patents, etc.
+- value of option increases with (downside) risk
+
+
+Equity Valuation vs Business Valuation
+
+
+
+
+
+Corporate examples:
+
+Netflix vs Spotify:
+Netflix - pays license upfront
+Spotify - pays based on number of streams
+
+
